@@ -1,8 +1,6 @@
 # Mercadinho-de-Bairro
 Disponibilizo um arquivo .xlsx e um .py para a simulação de um sistema de controle; .xlsx é um arquivo Excel simulando um sistema para um comercio básico/intermediário, já o .py é um script para preencher tabelas do sistema com dados fictícios.
 
-https://github.com/gustavoalbertoo/Mercadinho-de-Bairro.git
-
 Mercadinho do Bairro - Projeto de Excel + Script em python
 
 Projeto pessoal desenvolvido para aplicar na prática os conteúdos dos cursos de Excel Iniciante, Intermediário e Avançado da Fundação Bradesco.
